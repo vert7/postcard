@@ -1,0 +1,13 @@
+h1{font-size:30px;}
+body{font-size:18px;background-color:black;}
+input{font-size:20px;font-family:'Handlee',cursive;border:none;border-bottom:1px solid gray;}
+.mypostcard{margin:auto;margin-top:150px;width:500px;height:320px;background-color: white;
+             font-family:'Handlee',cursive;padding:10px;}
+.mypostcard-top{overflow:hidden;}
+.mypostcard-top img{max-width:60px;float:right;}
+.mypostcard-body{overflow:hidden;}
+.mypostcard-body input[type=text]{display:block;width:250px;}
+.middle-left{float:left;width:45%;}
+p:first-child{margin-top:0;}
+.middle-right{float:right;}
+.mypostcard-footer{text-align:center;}
